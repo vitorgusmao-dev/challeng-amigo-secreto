@@ -160,3 +160,43 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/* Animação de "Sorteando..." */
+.sorteio-animacao {
+    animation: piscar 1s infinite;
+    font-weight: bold;
+    color: #ff6347; /* Cor laranja */
+}
+
+@keyframes piscar {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+/* Animação de resultado */
+.resultado-animacao {
+    animation: aparecer 1s ease-in-out;
+    font-size: 1.5em;
+    color: #2ecc71; /* Cor verde */
+}
+
+@keyframes aparecer {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Estilo do botão de remover */
+.button-remove {
+    background-color: #ff4757; /* Vermelho */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.8em;
+}
+
+.button-remove:hover {
+    background-color: #ff6b81; /* Vermelho mais claro */
+}
