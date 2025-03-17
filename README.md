@@ -51,7 +51,7 @@ Você pode acessar o projeto online clicando no link abaixo:
  
 # ✏️ Autor
 
-| [<img loading="lazy" src="assets/imgvg.jpg" width=115><br><sub>Suiane Henrichs</sub>](https://github.com/vitorgusmao-dev) |
+| [<img loading="lazy" src="assets/imgvg.jpg" width=115><br><sub>Vitor Gusmão</sub>](https://github.com/vitorgusmao-dev) |
 | :---: |
 
 
