@@ -46,6 +46,7 @@ Este projeto é uma aplicação web simples para organizar e sortear amigos secr
 Você pode acessar o projeto online clicando no link abaixo:
 
 🕹️ [Jogo Amigo Secreto](https://github.com/vitorgusmao-dev/challeng-amigo-secreto/)
+👉[Teste a Aplicação Aqui](https://vitorgusmao-dev.github.io/challeng-amigo-secreto/)
 &nbsp;  
 &nbsp;  
  
